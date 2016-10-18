@@ -1,0 +1,13 @@
+# Untuk pindah 1 kata
+CRTL + ->/<-
+# untuk menghapus semua kata sebelum korsur
+CRTL + U
+# Untuk menghapus semua kata sesudah korsur
+CTRL + K
+# Untuk Pindah ke akhir kalimat
+CTRL + e
+# Untuk pindah keawal kalimat 
+CRTL + a
+# Untuk autocomplate
+TAB
+
